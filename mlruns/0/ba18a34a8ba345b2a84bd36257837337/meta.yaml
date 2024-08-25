@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Downloads/mlflow-test/mlruns/0/ba18a34a8ba345b2a84bd36257837337/artifacts
+end_time: 1724564976733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba18a34a8ba345b2a84bd36257837337
+run_name: lyrical-sow-180
+run_uuid: ba18a34a8ba345b2a84bd36257837337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724564973352
+status: 3
+tags: []
+user_id: Lenovo

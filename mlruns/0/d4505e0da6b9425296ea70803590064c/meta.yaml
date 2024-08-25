@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Downloads/mlflow-test/mlruns/0/d4505e0da6b9425296ea70803590064c/artifacts
+end_time: 1724567971530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4505e0da6b9425296ea70803590064c
+run_name: marvelous-hare-817
+run_uuid: d4505e0da6b9425296ea70803590064c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724567965272
+status: 3
+tags: []
+user_id: Lenovo

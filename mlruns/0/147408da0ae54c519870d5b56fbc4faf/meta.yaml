@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Downloads/mlflow-test/mlruns/0/147408da0ae54c519870d5b56fbc4faf/artifacts
+end_time: 1724564615679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 147408da0ae54c519870d5b56fbc4faf
+run_name: caring-hound-693
+run_uuid: 147408da0ae54c519870d5b56fbc4faf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724564607306
+status: 3
+tags: []
+user_id: Lenovo
